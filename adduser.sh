@@ -1,7 +1,7 @@
 
 #!/bin/bash 
 addUser (){
-	input=$1     # radwan is exist       #  radwan1   not exist
+	input=$1     # mahmoud is exist       #  mahmoud1   not exist
 	
 	if_usr_exist=`getent passwd $input |cut -f 1 -d:`
 	usr=$if_usr_exist                            ### to hold uername 	
