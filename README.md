@@ -18,40 +18,49 @@ ii. If a user exists, a random user is generated and asked if this user is suita
 
 
 2) Delete users.
+   
 ![DeleteUser](https://github.com/user-attachments/assets/5d22564b-3380-4de2-92fa-17d669225779)
 
 
-3) Disable users.
+4) Disable users.
+   
 ![LockUser](https://github.com/user-attachments/assets/7bf0ae7b-3da0-45df-af23-a7805a2e0281)
 
 
-4) Enable users.
+6) Enable users.
+   
 ![EnableUser](https://github.com/user-attachments/assets/c5929824-f7f5-4d8d-ab33-11e1acb84912)
 
 
-5) Change password for users.
+8) Change password for users.
+   
 ![ChangePasswd](https://github.com/user-attachments/assets/97283420-a2b4-43e6-b62a-3573f7553fcf)
 
 
 6)Add a group. If the group exists, a message will appear stating this.
+
 ![AddUser2Group](https://github.com/user-attachments/assets/5304543d-d8d4-4d0e-9c39-492179b20fcf)
 
 
 7) Delete group.
+   
 ![AddGroup](https://github.com/user-attachments/assets/78ed2ee5-fbde-4c03-a9ef-6f0a9405069d)
 
 
 
-8) Adding user to group.
+9) Adding user to group.
+    
  ![AddUser2Group](https://github.com/user-attachments/assets/7a95402e-183b-42f6-9fb1-ea27f7880a02)
 
 
 
-10) Display users Details.
+11) Display users Details.
+    
   ![EnableUser](https://github.com/user-attachments/assets/4d5119eb-c70e-46a6-a4e6-f3180676c15d)
 
 
 
-12) Exit menu.
+13) Exit menu.
+    
 ![Exit](https://github.com/user-attachments/assets/1401e361-f3ec-43fd-962b-14555f100401)
 
