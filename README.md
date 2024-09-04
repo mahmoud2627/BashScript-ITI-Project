@@ -1,5 +1,6 @@
 # BashScript-ITI-Project
-This project I devoloped it as a bash script project in ITI.
+This project I devoloped it as a bash script project in ITI:
+
 
 This project helps system administrator to do some of his tasks easily.
 
